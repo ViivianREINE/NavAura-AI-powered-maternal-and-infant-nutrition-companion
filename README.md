@@ -580,42 +580,87 @@ without spending several minutes configuring a profile.
 
 # 🖼️ Product Screenshots
 
-### 🏠 Home / Landing
+> A visual walkthrough of NavAura's core experiences.
 
-`docs/screenshots/landing.png`
+---
 
-### 📊 Maternal + Infant Dashboard
+## 🏠 Home / Landing
 
-`docs/screenshots/dashboard.png`
+<p align="center">
+  <img src="docs/screenshots/landing.png" alt="NavAura Home and Landing Page" width="900"/>
+</p>
 
-### 📸 AI Meal Scanner
+---
 
-`docs/screenshots/meal-scanner.png`
+## 📊 Maternal + Infant Dashboard
 
-### 🤍🌷 One Plate. Two Journeys.
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="NavAura Maternal and Infant Dashboard" width="900"/>
+</p>
 
-`docs/screenshots/dual-analysis.png`
+---
 
-### 👶 Infant Feeding Journey
+## 📸 AI Meal Scanner
 
-`docs/screenshots/baby-journey.png`
+<p align="center">
+  <img src="docs/screenshots/meal-scanner.png" alt="NavAura AI Meal Scanner" width="900"/>
+</p>
 
-### 💧 Maternal Wellness
+---
 
-`docs/screenshots/maternal-wellness.png`
+## 🤍🌷 One Plate. Two Journeys.
 
-### 🎙️ Talk to NavAura
+<p align="center">
+  <img src="docs/screenshots/dual-analysis.png" alt="NavAura One Plate Two Journeys Dual Analysis" width="900"/>
+</p>
 
-`docs/screenshots/voice-ai.png`
+---
 
-### 📚 Verified Food Library
+## 👶 Infant Feeding Journey
 
-`docs/screenshots/food-library.png`
+<p align="center">
+  <img src="docs/screenshots/baby-journey.png" alt="NavAura Infant Feeding Journey" width="900"/>
+</p>
 
-### 🔒 System & Security
+---
 
-`docs/screenshots/security.png`
+## 💧 Maternal Wellness
 
+<p align="center">
+  <img src="docs/screenshots/maternal-wellness.png" alt="NavAura Maternal Wellness Dashboard" width="900"/>
+</p>
+
+---
+
+## 🎙️ Talk to NavAura
+
+<p align="center">
+  <img src="docs/screenshots/voice-ai.png" alt="NavAura Voice AI Assistant" width="900"/>
+</p>
+
+---
+
+## 📚 Verified Food Library
+
+<p align="center">
+  <img src="docs/screenshots/food-library.png" alt="NavAura Verified Food Library" width="900"/>
+</p>
+
+---
+
+## 🔒 System & Security
+
+<p align="center">
+  <img src="docs/screenshots/security.png" alt="NavAura System Architecture and Security" width="900"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🌸 One mother. One family. One connected journey.
+
+</div>
 ---
 
 # 🏆 Why NavAura Fits Technology for Wellness
